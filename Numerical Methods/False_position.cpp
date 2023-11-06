@@ -6,7 +6,7 @@ typedef long long ll;
 /*
 Input Format :
 4x^4-2x^3+5x^2-6x^1+1
--0.5 2
+0.5 2
 */
 
 map<int , int> pw ;
