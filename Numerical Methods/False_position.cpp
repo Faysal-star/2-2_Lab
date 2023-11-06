@@ -48,7 +48,7 @@ int main(){
     float x1 , x2 , x0 ;
     cin >> x1 >> x2 ;
 
-    cout << "Initial range : "
+    cout << "Initial range : " ;
     cout << fx(x1) << " " << fx(x2) << endl ;
 
     if(fx(x1)*fx(x2) >= 0){
